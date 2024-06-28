@@ -13,3 +13,6 @@
 [submodule "Suricata-Rules-for-ICS-SCADA"]
 	path = Suricata-Rules-for-ICS-SCADA
 	url = git@github.com:CyberICS/Suricata-Rules-for-ICS-SCADA.git
+[submodule "Suricata-Detect-DoS-Attack"]
+	path = Suricata-Detect-DoS-Attack
+	url = https://github.com/arvindpj007/Suricata-Detect-DoS-Attack.git
