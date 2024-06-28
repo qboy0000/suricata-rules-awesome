@@ -10,3 +10,6 @@
 [submodule "JJyyy/suricata-rules"]
 	path = JJyyy/suricata-rules
 	url = git@github.com:JJyyy/suricata-rules.git
+[submodule "Suricata-Rules-for-ICS-SCADA"]
+	path = Suricata-Rules-for-ICS-SCADA
+	url = git@github.com:CyberICS/Suricata-Rules-for-ICS-SCADA.git
