@@ -16,3 +16,6 @@
 [submodule "Suricata-Detect-DoS-Attack"]
 	path = Suricata-Detect-DoS-Attack
 	url = https://github.com/arvindpj007/Suricata-Detect-DoS-Attack.git
+[submodule "opnsense-suricata-nmaps"]
+	path = opnsense-suricata-nmaps
+	url = git@github.com:aleksibovellan/opnsense-suricata-nmaps.git

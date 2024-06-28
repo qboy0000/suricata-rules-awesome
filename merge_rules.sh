@@ -31,6 +31,12 @@ echo '
 echo "#5. Suricata-Detect-DoS-Attack" >> local.rules
 cat ./Suricata-Detect-DoS-Attack/*.rules >> local.rules
 
+echo '
+' >> local.rules
+echo "#6. opnsense-suricata-nmaps" >> local.rules
+cat ./opnsense-suricata-nmaps/*.rules >> local.rules
+
+
 
 # echo '
 # ' >> local.rules
