@@ -19,3 +19,6 @@
 [submodule "opnsense-suricata-nmaps"]
 	path = opnsense-suricata-nmaps
 	url = git@github.com:aleksibovellan/opnsense-suricata-nmaps.git
+[submodule "AttackDetection"]
+	path = AttackDetection
+	url = git@github.com:ptresearch/AttackDetection.git
