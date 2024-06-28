@@ -1,3 +1,6 @@
 [submodule "hunting-rules"]
 	path = hunting-rules
 	url = git@github.com:travisbgreen/hunting-rules.git
+[submodule "cobaltstrike-suricata-rules"]
+	path = cobaltstrike-suricata-rules
+	url = git@github.com:ainrm/cobaltstrike-suricata-rules.git
