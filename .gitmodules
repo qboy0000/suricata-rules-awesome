@@ -7,3 +7,6 @@
 [submodule "suricata-rules"]
 	path = suricata-rules
 	url = git@github.com:al0ne/suricata-rules.git
+[submodule "JJyyy/suricata-rules"]
+	path = JJyyy/suricata-rules
+	url = git@github.com:JJyyy/suricata-rules.git
