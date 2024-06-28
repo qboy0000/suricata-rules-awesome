@@ -4,3 +4,6 @@
 [submodule "cobaltstrike-suricata-rules"]
 	path = cobaltstrike-suricata-rules
 	url = git@github.com:ainrm/cobaltstrike-suricata-rules.git
+[submodule "suricata-rules"]
+	path = suricata-rules
+	url = git@github.com:al0ne/suricata-rules.git
