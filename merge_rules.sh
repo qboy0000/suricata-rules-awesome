@@ -37,11 +37,10 @@ echo "#6. opnsense-suricata-nmaps" >> local.rules
 cat ./opnsense-suricata-nmaps/*.rules >> local.rules
 
 
-
-# echo '
-# ' >> local.rules
-# echo "#6. suricata-rules" >> local.rules
-# cat ./suricata-rules/suricata-rules.rules >> local.rules
+echo '
+' >> local.rules
+echo "#7. AttackDetection" >> local.rules
+cat ./AttackDetection/**/*.rules >> local.rules
 
 
 git add local.rules
